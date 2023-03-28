@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11b41382-c1f7-4f66-a08e-76b7ec3fc0df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/files" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/img" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/js" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/css" />
+      <path value="$PROJECT_DIR$/vendor/laravel-filemanager/images" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2CFSnfX5zCKMK6147JCjYN0d436" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\megaleasing\httpclient" />
+      <recent name="D:\projects\megaleasing\mailer" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b41382-c1f7-4f66-a08e-76b7ec3fc0df" name="Default Changelist" comment="" />
+      <created>1658397007541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658397007541</updated>
+      <workItem from="1658397008571" duration="1981000" />
+      <workItem from="1658409625814" duration="2776000" />
+      <workItem from="1658453493311" duration="8810000" />
+      <workItem from="1658976851603" duration="3492000" />
+      <workItem from="1658981815047" duration="1962000" />
+      <workItem from="1659077357864" duration="1201000" />
+      <workItem from="1659410629952" duration="832000" />
+      <workItem from="1659411517832" duration="1371000" />
+      <workItem from="1659423113953" duration="1171000" />
+      <workItem from="1659521502299" duration="693000" />
+      <workItem from="1659579499756" duration="315000" />
+      <workItem from="1668651459265" duration="1717000" />
+      <workItem from="1668653938540" duration="2480000" />
+      <workItem from="1669004831529" duration="598000" />
+      <workItem from="1669454476323" duration="1755000" />
+      <workItem from="1670203280558" duration="489000" />
+      <workItem from="1674651839781" duration="655000" />
+      <workItem from="1675177223966" duration="2348000" />
+      <workItem from="1675323357378" duration="2000" />
+      <workItem from="1675485588635" duration="1252000" />
+      <workItem from="1675575740910" duration="1168000" />
+      <workItem from="1675576927162" duration="1019000" />
+      <workItem from="1677293717664" duration="95000" />
+      <workItem from="1677393445625" duration="656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Deployment" timestamp="1674651901030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1674651901030" />
+  </component>
+</project>

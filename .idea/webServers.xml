@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a1412d42-8d6e-42bc-b519-4207f1eff640" name="ftps17.us.cloudlogin.co" url="http://ftps17.us.cloudlogin.co">
+        <fileTransfer host="ftps17.us.cloudlogin.co" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
